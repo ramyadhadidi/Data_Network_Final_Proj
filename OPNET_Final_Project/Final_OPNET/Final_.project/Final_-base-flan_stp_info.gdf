@@ -1,0 +1,4 @@
+# This is an internal file created by Flow Analysis (FLAN). 
+# It contains spanning tree infromation to be parsed while  
+# visualizing the spanning tree using the Protocols->STP menu.
+# Legend: node name, VID, VLAN/tree name, port/node type, link name
